@@ -51,11 +51,11 @@ plt.show()
 
 ```
 ## Output
-</br>![image](https://github.com/user-attachments/assets/8e255628-8d73-499c-a9f6-9c659f13f504)
+</br>![Screenshot 2025-05-01 163320](https://github.com/user-attachments/assets/07244e05-6b5f-4ec2-8cb4-94620dccd3e7)
 
-</br>![image](https://github.com/user-attachments/assets/7947f361-635b-412b-a2fa-2ac8097a284e)
+</br>![Screenshot 2025-05-01 163354](https://github.com/user-attachments/assets/0c0e4027-61e3-49a5-b6a6-850b24043575)
 
-</br>![image](https://github.com/user-attachments/assets/21a53f83-7dfa-4a39-b342-bbdef3137a74)
+</br>![Screenshot 2025-05-01 163503](https://github.com/user-attachments/assets/9b3e5d7d-0c43-44cf-90fd-f7e3321cc5ec)
 
 </br>
 
